@@ -66,7 +66,7 @@ quiz(currentQues.question, currentQues.answer);
 }
 
 console.log("\n");
-console.log("Your score is "+ score+"/5");
+console.log(userName +"Your score is "+ score+"/5");
 console.log("\n");
 
 
